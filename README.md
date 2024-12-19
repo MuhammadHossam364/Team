@@ -16,4 +16,4 @@ This repository lists the team members for our project.
 
 ---
 ## Project Demo Video
-[Watch the demo video here](https://docs.google.com/document/d/1bZngNa-j4Fqx6Q5k_4THd59ib_biIEcKmvVcU7q0BZo/edit?usp=sharing)
+[Watch the demo video here](https://drive.google.com/file/d/1gryQBD-ckikTU4PulESMLQWbDU48I6UH/view?usp=drivesdk)
